@@ -16,6 +16,12 @@
       "student_name": "oscar",
       "student_program": "BS - Information Technology",
       "student_enrolled_date": "2023-03-6"
-    }
+    },
+    {
+        "student_id": 4,
+        "student_name": "Lester Green",
+        "student_program": "American comedian and actor.",
+        "student_enrolled_date": "born June 2, 1968"
+      }
   ]
   
